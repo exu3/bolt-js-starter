@@ -1,0 +1,26 @@
+{
+  "name": "bolt-js-starter",
+  "version": "1.0.0",
+  "description": "Get up and running with a Slack app using Bolt for JavaScript.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eilla1/bolt-js-starter.git"
+  },
+  "keywords": [
+    "bolt",
+    "slack"
+  ],
+  "author": "@eilla1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eilla1/bolt-js-starter/issues"
+  },
+  "homepage": "https://github.com/eilla1/bolt-js-starter#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.7.0"
+  }
+}
